@@ -1,9 +1,4 @@
 build/
-.codex
-.codex/
-PROJE_BILGI.txt
-MULAKAT_SORULARI.txt
-TEST_DOKUMANI.txt
 .qt/
 *.user
 *.autosave
